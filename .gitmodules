@@ -1,0 +1,9 @@
+[submodule "HSML"]
+	path = HSML
+	url = https://github.com/YoNyeoSeok/HSML.git
+[submodule "cavia"]
+	path = cavia
+	url = https://github.com/YoNyeoSeok/cavia.git
+[submodule "MT-net"]
+	path = MT-net
+	url = https://github.com/YoNyeoSeok/MT-net.git
